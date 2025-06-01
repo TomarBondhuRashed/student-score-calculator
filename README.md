@@ -86,9 +86,4 @@ Key labels and procedures:
 
 ## 🚀 How to Run
 
-1. Install [DOSBox](https://www.dosbox.com/)
-2. Assemble the `.asm` file using [TASM](https://archive.org/details/TASM_Complete)
-3. Link the object file:
-   ```bash
-   tasm calculator.asm
-   tlink calculator.obj
+1. emu8086
